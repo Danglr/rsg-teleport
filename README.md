@@ -1,13 +1,14 @@
-# RexshackGaming
+# All credit goes to RexshackGaming, I just converterd it to work with his rsg-core
+# RexshackGaming Links
 - discord : https://discord.gg/s5uSk56B65
 - youtube : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA
 - github : https://github.com/Rexshack-RedM
 
-# Framework QRCore RedM Edition
-- https://github.com/QRCore-RedM-Re
+# Framework rsg-core 
+- https://github.com/Rexshack-RedM/rsg-core
 
 # Dependancies
-- qr-core
+- rsg-core
 
 # Installation
 - ensure that the dependancies are added and started
